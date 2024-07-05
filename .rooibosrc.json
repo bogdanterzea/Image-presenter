@@ -1,0 +1,7 @@
+{
+  "projectPath": "source/tests",
+  "outputPath": "source/tests/rooibos",
+  "failFast": true,
+  "legacySupport": false,
+  "showFailuresOnly": true
+}

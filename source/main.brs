@@ -3,6 +3,7 @@ sub main()
     m.screen = CreateObject("roSGScreen")
     m.screen.setMessagePort(m.port)
     scene = m.screen.CreateScene("AppScene")
+    if (type(Rooibos_init) = "Function") then Rooibos_init()
     m.screen.Show()
     keepAppAlive()
 end sub

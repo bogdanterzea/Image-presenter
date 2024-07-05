@@ -1,0 +1,7 @@
+<component name="TestsScene" extends="Scene">
+    <interface>
+        <function name="Rooibos_CreateTestNode" />
+  </interface>
+
+  <script type="text/brightscript" uri="pkg:/source/tests/components/rooibosDist.brs" />
+</component>

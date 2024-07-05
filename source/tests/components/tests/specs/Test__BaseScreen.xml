@@ -1,0 +1,10 @@
+<component name="Test__BaseScreen" extends="BaseScreen">
+	<interface>
+		<function name="Rooibos_RunNodeTests" />
+	</interface>
+
+	<script type="text/brightscript" uri="pkg:/source/tests/specs/Test__BaseScreen.brs" />
+
+	<script type="text/brightscript" uri="pkg:/rooibosDist.brs" />
+	<script type="text/brightscript" uri="pkg:/source/tests/rooibos/rooibosFunctionMap.brs" />
+</component>
